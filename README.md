@@ -1,1 +1,2 @@
-# CARD READER TOOL - NAME PENDING\n## BootDEV Capstone project by Bravnar
+# CARD READER TOOL - NAME PENDING
+## BootDEV Capstone project by Bravnar
